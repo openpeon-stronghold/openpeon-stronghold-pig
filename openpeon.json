@@ -1,8 +1,8 @@
 {
   "cesp_version": "1.0",
-  "name": "stronghold-pig",
+  "name": "pig",
   "display_name": "The Pig (Stronghold Crusader)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Marko Jevic",
     "github": "koyev"
