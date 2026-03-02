@@ -6,6 +6,8 @@
 
 The Pig sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Pig in Stronghold Crusader.
 
+The Pig is a brutal, gluttonous villain lord — all bluster, cruelty, and appetite. He rules through fear and brute force, with no patience for strategy or subtlety. Loud, thuggish, and contemptuous of weakness, he is as dangerous as he is unpleasant.
+
 ## Install
 
 ```bash
